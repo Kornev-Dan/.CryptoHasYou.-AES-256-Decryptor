@@ -4,4 +4,4 @@
 
 How to use 
 1. enter Secret Key.
-Execute .\decryptor.py.
+2. Execute .\decryptor.py.
